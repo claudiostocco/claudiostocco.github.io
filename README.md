@@ -1,2 +1,1 @@
-# claudiostocco.github.io
-Meu site pessoal.
+# Claudio Marcio Stocco - Site Pessoal

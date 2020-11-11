@@ -1,0 +1,14 @@
+{
+  "sidebar": {
+    "name": "Claudio Marcio Stocco",
+    "start": "Início",
+    "about": "Sobre"
+  },
+  "about": {
+    "name": "Claudio",
+    "surname": "Marcio Stocco",
+    "profession": "Desenvolvedor de Software",
+    "address": "Cerqueira César · São Paulo · Brasil",
+    "description": "Me chamo Claudio, sou Desenvolvedor de Software na Gep Automação, localizada na cidade de Cerqueira César no interior de São Paulo. Hoje, trabalho principalmente com Delphi e banco de dados relacional Firebird, mas gosto de conhecer várias linguagens. Também gosto muito de eletrônica e eltrecidade."
+  }
+}
