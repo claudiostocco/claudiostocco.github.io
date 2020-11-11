@@ -1,5 +1,5 @@
 /*!
- * Site pessoal - Site Pessoal v0.0.1 (https://github.com/osvaldokalvaitir/osvaldokalvaitir.github.io)
+ * Site pessoal - Site Pessoal v0.0.1 (https://github.com/claudiostocco/claudiostocco.github.io)
  * Copyright 2020-2020 Claudio Marcio Stocco
  * Licensed under MIT (https://github.com/BlackrockDigital/site-pessoal/blob/master/LICENSE)
  */
